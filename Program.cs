@@ -34,7 +34,7 @@ namespace SFML
                 };
 
             Font font = new Font("/home/mariocj/Projects/SFML/font/Roboto-Bold.ttf");
-            Text text = new Text("Tio Biko Survivors!", font);
+            Text text = new Text("To Be Cool Survivors!", font);
             text.CharacterSize = 40;
             float textWidth = text.GetLocalBounds().Width;
             float textHeight = text.GetLocalBounds().Height;
