@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bu5kFhf4OX6yZtmDbfJnLeTwYh3WkWq9dGDgS9Yakp0udTr4h++zxvJM9QuNxWANJN4M7T1o0xCZeMiIGMv1gg==",
+  "success": true,
+  "projectFilePath": "/home/mariocj/Projects/SFML/SFML.csproj",
+  "expectedPackageFiles": [
+    "/home/mariocj/.nuget/packages/csfml/2.5.0/csfml.2.5.0.nupkg.sha512",
+    "/home/mariocj/.nuget/packages/sfml.audio/2.5.0/sfml.audio.2.5.0.nupkg.sha512",
+    "/home/mariocj/.nuget/packages/sfml.graphics/2.5.0/sfml.graphics.2.5.0.nupkg.sha512",
+    "/home/mariocj/.nuget/packages/sfml.net/2.5.0/sfml.net.2.5.0.nupkg.sha512",
+    "/home/mariocj/.nuget/packages/sfml.system/2.5.0/sfml.system.2.5.0.nupkg.sha512",
+    "/home/mariocj/.nuget/packages/sfml.window/2.5.0/sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
